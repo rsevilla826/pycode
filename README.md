@@ -1,5 +1,5 @@
 # pycode
-This is a random collection of my python work with databases. I will upload when I can or when I have time.
+This is a random collection of my python work with databases, that I developed. I will upload when I can or when I have time.
 
 SnowConnections.py - Is a python class that reads in a JSON file to get connection info and connect to Snowflake. 
 
